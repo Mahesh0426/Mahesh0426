@@ -5,6 +5,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-kunwar-1b85a5301)
+[![Linktree](https://img.shields.io/badge/Linktree-%23ff4d00.svg?logo=linktree&logoColor=white)](https://linktr.ee/mahesh0426)
 
 
 # 💻 Tech Stack:
