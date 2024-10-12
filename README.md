@@ -9,7 +9,7 @@
 [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://www.blogger.com/blog/posts/135828657570358043)
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-%23FF5722.svg?logo=daily.dev&logoColor=white)](https://app.daily.dev/mahesh98)
 
-<a href="https://app.daily.dev/mahesh98"><img src="https://api.daily.dev/devcards/v2/X7BhJ5GaLqxN8DpEdihSb.png?type=default&r=gdc" width="356" alt="mahesh's Dev Card"/></a>
+
 
 
 # 💻 Tech Stack:
