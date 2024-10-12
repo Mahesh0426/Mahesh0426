@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-kunwar-1b85a5301)
 [![Linktree](https://img.shields.io/badge/Linktree-%23ff4d00.svg?logo=linktree&logoColor=white)](https://linktr.ee/mahesh0426)
 [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://www.blogger.com/blog/posts/135828657570358043)
+[![Daily.dev](https://img.shields.io/badge/Daily.dev-%23FF5722.svg?logo=blogger&logoColor=white)]([https://www.blogger.com/blog/posts/135828657570358043](https://app.daily.dev/mahesh98))
 
 
 # 💻 Tech Stack:
