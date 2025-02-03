@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mahesh Kunwar!
 ## 💫 About Me: 
-🔭 I’m currently working on a Personalized E-learning recommendation system<br>🌱 I’m currently learning TypeScript, TensorFlowJS, and nextJs<br>💬 Ask me about MERN Stack <br>📫 How to reach me: mawhesjung143@gmail.com<br>⚡ Fun fact: "When I’m not coding, you can find me exploring the latest AI advancements or watching podcasts and reading tech blogs!"
+🔭 I’m currently working on  full stack Chat APP<br>🌱 I’m currently learning TypeScript, TensorFlowJS, and nextJs<br>💬 Ask me about MERN Stack <br>📫 How to reach me: mawhesjung143@gmail.com<br>⚡ Fun fact: "When I’m not coding, you can find me exploring the latest AI advancements or watching podcasts and reading tech blogs!"
 
 
 ## 🌐 Socials:
