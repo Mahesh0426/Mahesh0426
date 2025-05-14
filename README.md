@@ -8,6 +8,8 @@
 [![Linktree](https://img.shields.io/badge/Linktree-%23ff4d00.svg?logo=linktree&logoColor=white)](https://linktr.ee/mahesh0426)
 [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://www.blogger.com/blog/posts/135828657570358043)
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-%23FF5722.svg?logo=daily.dev&logoColor=white)](https://app.daily.dev/mahesh98)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-blue?logo=hashnode)](https://hashnode.com/@Mahesh0426)
+
 
 
 
