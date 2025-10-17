@@ -12,8 +12,6 @@
 
 
 
-
-
 # 💻 Tech Stack:
 ![MERN](https://img.shields.io/badge/MERN-Stack-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
