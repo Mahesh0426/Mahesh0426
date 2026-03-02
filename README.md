@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mahesh Kunwar!
 ## 💫 About Me: 
-🔭 I’m currently working on an AI Job searching platform <br>🌱 I’m currently learning Python and GenAI, OpenAI API Integration, gemini,langchain,langgraph,qdrantdb<br>💬 Ask me about MERN Stack <br>📫 How to reach me: kunwarmahesh29@gmail.com<br>⚡ Fun fact: "When I’m not coding, you can find me exploring the latest AI advancements or watching podcasts and reading tech blogs!"
+🔭 I’m currently working on an AI Job hunting platform <br>🌱 I’m currently learning Python and GenAI, OpenAI API Integration, gemini,langchain,langgraph,qdrantdb<br>💬 Ask me about MERN Stack <br>📫 How to reach me: kunwarmahesh29@gmail.com<br>⚡ Fun fact: "When I’m not coding, you can find me exploring the latest AI advancements or watching podcasts and reading tech blogs!"
 
 
 ## 🌐 Socials:
