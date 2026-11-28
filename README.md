@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mahesh Kunwar!
 ## 💫 About Me: 
-🔭 I’m currently working on an Launchpanion as an internship 🌱 I’m currently learning Python, FastAPI, GenAI, OpenAI API Integration, gemini,langchain,langgraph,qdrantdb<br>💬 Ask me about MERN Stack <br>📫 How to reach me: kunwarmahesh29@gmail.com<br>⚡ Fun fact: "When I’m not coding, you can find me exploring the latest AI advancements or watching tech-related podcasts and reading tech blog!"
+🔭 I’m currently working on an Launchpanion AI Mentor chatbot as an internship 🌱 I’m currently learning Python, FastAPI, GenAI, OpenAI API Integration, gemini,langchain,langgraph,qdrantdb<br>💬 Ask me about MERN Stack <br>📫 How to reach me: kunwarmahesh29@gmail.com<br>⚡ Fun fact: "When I’m not coding, you can find me exploring the latest AI advancements or watching tech-related podcasts and reading tech blog!"
 
 
 ## 🌐 Socials:
